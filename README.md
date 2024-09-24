@@ -1,0 +1,1 @@
+WatchGoods is another one of my cherished goods- a store-based web design for hand watches. Made using the tools from Figma, this website design was made for a college project. In addition to developing the prototype using Figma, I also implemented the HTML and CSS, ensuring a seamless transition from design to development.
